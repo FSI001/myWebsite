@@ -1,0 +1,199 @@
+body{
+	font-family: 'Comic Neue', cursive;
+}
+.firstNavBar{
+	list-style-type: none;
+	padding: 0;
+	margin: 0;\
+	overflow: hidden;
+}
+
+.firstNavBar li{
+	float: left;
+}
+
+.firstNavBar li a:not(.logo){
+	display: block;
+	text-decoration: none;
+	padding: 30px 5px 30px 5px;
+/*	font-size: 20px;*/
+	color: black;
+}
+
+.firstNavBar li a:not(.logo):hover{
+	color: #856663;
+}
+
+.firstNavBar li:first-child{
+	padding: 0 590px 0 50px;
+}
+
+i{
+	color: green;
+}
+
+.sec2{
+	clear: both;
+	background-color: #282e3f;
+}
+
+.secondNavBar{
+	list-style-type: none;
+	padding-left: 200px;
+	overflow: hidden;
+	color: white;
+	
+
+}
+
+.secondNavBar li{
+	float: left;
+	display: block;
+	padding: 5px;
+}
+
+.secondNavBar a{
+	color: white;
+}
+
+.secondNavBar input:nth-child(2){
+	background-color: #457947;
+	border: 2px solid #457947;
+}
+
+.butsub{
+	background-color: green;
+}
+
+.sec3{
+	text-align: center;
+}
+
+.ppp2{
+	color: #7a7a7a;
+}
+
+.sec5{
+	padding: 0 8px;
+}
+.sec5 div{
+	float: left;
+	width: 49%;
+	padding: 3px;
+}
+
+.ytvidchweb{
+	float: left;
+}
+.sec6{
+	clear: both;
+	padding: 10px;
+}
+.sec6 .sec6div{
+	float: left;
+	width: 30%;
+	margin: 10px;
+	padding: 10px;
+}
+.sec7{
+	clear: both;
+	padding: 10px;
+}
+.sec7 .sec7div{
+	float: left;
+	width: 30%;
+	margin: 10px;
+	padding: 10px;
+}
+
+.sec8{
+	clear: both;
+	padding: 10px;
+}
+
+.sec8 .sec8div{
+	width: 31%;
+	float: left;
+	margin: 0 10px;
+}
+
+.sec9 div{
+	float: left;
+	margin: 0 11px;
+}
+
+.sec9 .sec9div1{
+	width: 25%;
+}
+
+.sec9 .sec9div2{
+	width: 18%;
+}
+
+.sec9 .sec9div3{
+	width: 13%;
+}
+
+.ft1{
+	background-color: #34373c;
+	clear: both;
+	overflow: hidden;
+	color: #97a0ae;
+}
+
+.aft{
+	color: #97a0ae;
+	text-decoration: none;
+}
+
+.divft{
+	float: left;
+	margin: 50px;
+	padding-left: 50px;
+}
+
+h3{
+	color: white;
+}
+
+.divafft{
+	float: left;
+}
+
+.divafft1 a{
+	text-decoration: none;
+	color: black;
+}
+
+.divafft2{
+	width: 80%;
+}
+
+.divafft1{
+	width: 20%;
+}
+.secMap div{
+	float: left;
+	padding: 10px;
+}
+
+.secMap{
+/*	padding-left: 30px;*/
+}
+
+.sechigh{
+	padding: 150px;
+}
+
+.sechigh h1{
+	color: #427b46;
+	font-size: 50px;
+}
+
+.ft1 a:hover{
+	color: white;
+}
+
+.gmap1{
+	border-radius: 30px;
+}
